@@ -10,10 +10,7 @@
         "Backstreet medley T2.1_1.2.mp3",
         "Backstreet medley T2.2.mp3"
       ],
-      "pdf": "Backstreet Boys Medley - Note.pdf",
-      "tags": [
-        "Konkurranse"
-      ]
+      "pdf": "Backstreet Boys Medley - Note.pdf"
     },
     {
       "name": "Brudefærden i hardanger",
@@ -34,18 +31,15 @@
       "name": "Bysjan, bysjan lite bån",
       "folder": "songs/Bysjan, bysjan lite bån",
       "files": [
-        "14 Bysjan, bysjan lite bån - Vårkonsert DnS & KSS - Svermerier (opptak - Rolf Valle).mp3",
-        "17 Bysjan, bysjan lite bån - Jorden rundt på 80 minutter 2016 10 08 (opptak - Rolf Valle).mp3",
-        "Bysjan, bysjan lite bån B1.mp3",
-        "Bysjan, bysjan lite bån B2 (vokal).mp3",
-        "Bysjan, bysjan lite bån B2.mp3",
-        "Bysjan, bysjan lite bån T1.mp3",
-        "Bysjan, bysjan lite bån T2.mp3"
+        "14 Bysjan, bysjan lite bån - Vårkonsert DnS & KSS - Svermerier (opptak - Rolf Valle).mp3",
+        "17 Bysjan, bysjan lite bån - Jorden rundt på 80 minutter 2016 10 08 (opptak - Rolf Valle).mp3",
+        "Bysjan, bysjan lite bån B1.mp3",
+        "Bysjan, bysjan lite bån B2 (vokal).mp3",
+        "Bysjan, bysjan lite bån B2.mp3",
+        "Bysjan, bysjan lite bån T1.mp3",
+        "Bysjan, bysjan lite bån T2.mp3"
       ],
-      "pdf": "Bysjan, bysjan lite bån (Havrøy) - Note (TTBB).pdf",
-      "tags": [
-        "Konkurranse"
-      ]
+      "pdf": "Bysjan, bysjan lite bån (Havrøy) - Note (TTBB).pdf"
     },
     {
       "name": "Champagnegaloppen",
@@ -88,7 +82,7 @@
         "Du vilar T2.1.mp3",
         "Du vilar T2.2.mp3"
       ],
-      "pdf": "Du vilar (Sandström) - Note.pdf",
+      "pdf": "Du vilar (Sandström) - Note.pdf",
       "tags": [
         "Konkurranse"
       ]
@@ -102,10 +96,7 @@
         "Echo-Foosnæs-T1.mp3",
         "Echo-Foosnæs-T2.mp3"
       ],
-      "pdf": "Echo.pdf",
-      "tags": [
-        "Konkurranse"
-      ]
+      "pdf": "Echo.pdf"
     },
     {
       "name": "Folkefrelsar",
@@ -116,10 +107,7 @@
         "Folkefrelsar T1.mp3",
         "Folkefrelsar T2.mp3"
       ],
-      "pdf": "Folkefrelsar (arr. Arnesen) - note.pdf",
-      "tags": [
-        "Konkurranse"
-      ]
+      "pdf": "Folkefrelsar (arr. Arnesen) - note.pdf"
     },
     {
       "name": "Fædrelandssang (Høiest løfter)",
@@ -136,6 +124,20 @@
       ]
     },
     {
+      "name": "Godec pred peklom",
+      "folder": "songs/Godec pred peklom",
+      "files": [
+        "Godec Pred Peklom B1.mp3",
+        "Godec Pred Peklom B2.mp3",
+        "Godec Pred Peklom T1.mp3",
+        "Godec Pred Peklom T2.mp3"
+      ],
+      "pdf": "Godec Pred Peklom Note.pdf",
+      "tags": [
+        "Konkurranse"
+      ]
+    },
+    {
       "name": "Gryning",
       "folder": "songs/Gryning",
       "files": [
@@ -147,7 +149,7 @@
         "Gryning vid havet T2.1.mp3",
         "Gryning vid havet T2.2.mp3"
       ],
-      "pdf": "Gryning vid havet (Alfvén) - Note.pdf",
+      "pdf": "Gryning vid havet (Alfvén) - Note.pdf",
       "tags": [
         "Konkurranse"
       ]
@@ -215,15 +217,12 @@
       "name": "Kråkevisa",
       "folder": "songs/Kråkevisa",
       "files": [
-        "Kråkevisa (Ødegaard) B1.mp3",
-        "Kråkevisa (Ødegaard) B2.mp3",
-        "Kråkevisa (Ødegaard) T1.mp3",
-        "Kråkevisa (Ødegaard) T2.mp3"
+        "Kråkevisa (Ødegaard) B1.mp3",
+        "Kråkevisa (Ødegaard) B2.mp3",
+        "Kråkevisa (Ødegaard) T1.mp3",
+        "Kråkevisa (Ødegaard) T2.mp3"
       ],
-      "pdf": "Kråkevisa (arr. Ødegaard) - Note.pdf",
-      "tags": [
-        "Konkurranse"
-      ]
+      "pdf": "Kråkevisa (arr. Ødegaard) - Note.pdf"
     },
     {
       "name": "Londonderry Air",
@@ -233,10 +232,7 @@
         "Londonderry_Air_B2.mp3",
         "Londonderry_Air_T2.mp3"
       ],
-      "pdf": "Londonderry Air (arr. Sund) - Note.pdf",
-      "tags": [
-        "Konkurranse"
-      ]
+      "pdf": "Londonderry Air (arr. Sund) - Note.pdf"
     },
     {
       "name": "Naar fjordene blaaner",
@@ -284,20 +280,6 @@
       ]
     },
     {
-      "name": "På jorden et sted",
-      "folder": "songs/På jorden et sted",
-      "files": [
-        "På jorden et sted B1.mp3",
-        "På jorden et sted B2.mp3",
-        "På jorden et sted T1.mp3",
-        "På jorden et sted T2.mp3"
-      ],
-      "pdf": "På jorden et sted.pdf",
-      "tags": [
-        "Konkurranse"
-      ]
-    },
-    {
       "name": "Psaume 121",
       "folder": "songs/Psaume 121",
       "files": [
@@ -307,7 +289,32 @@
         "Psaume_121 (Milhaud) T1.mp3",
         "Psaume_121 (Milhaud) T2.mp3"
       ],
-      "pdf": "Psaume 121 (Milhaud) - Note.pdf",
+      "pdf": "Psaume 121 (Milhaud) - Note.pdf"
+    },
+    {
+      "name": "På jorden et sted",
+      "folder": "songs/På jorden et sted",
+      "files": [
+        "På jorden et sted B1.mp3",
+        "På jorden et sted B2.mp3",
+        "På jorden et sted T1.mp3",
+        "På jorden et sted T2.mp3"
+      ],
+      "pdf": "På jorden et sted.pdf",
+      "tags": [
+        "Konkurranse"
+      ]
+    },
+    {
+      "name": "Ramkali",
+      "folder": "songs/Ramkali",
+      "files": [
+        "Ramkali (Sperry) B1.mp3",
+        "Ramkali (Sperry) B2.mp3",
+        "Ramkali (Sperry) T1.mp3",
+        "Ramkali (Sperry) T2.mp3"
+      ],
+      "pdf": "Ramkali (Sperry) - Note.pdf",
       "tags": [
         "Konkurranse"
       ]
@@ -354,7 +361,19 @@
         "Shenandoah (Jones-Kamperhaug) T2.1.mp3",
         "Shenandoah (Jones-Kamperhaug) T2.2.mp3"
       ],
-      "pdf": "Shenandoah (arr. Jones-Kamperhaug) - Note.pdf",
+      "pdf": "Shenandoah (arr. Jones-Kamperhaug) - Note.pdf"
+    },
+    {
+      "name": "The song of the blacksmith",
+      "folder": "songs/The song of the blacksmith",
+      "files": [
+        "NY The Song of the Blacksmith B1.mp3",
+        "NY The Song of the Blacksmith B2.mp3",
+        "NY The Song of the Blacksmith MIX.mp3",
+        "NY The Song of the Blacksmith T1.mp3",
+        "NY The Song of the Blacksmith T2.mp3"
+      ],
+      "pdf": "The song of the blacksmith (arr. Holst) - Note.pdf",
       "tags": [
         "Konkurranse"
       ]
@@ -370,10 +389,7 @@
         "Tu es Petrus T1.mp3",
         "Tu es Petrus T2.mp3"
       ],
-      "pdf": "Tu es Petrus (Petersson) - Note.pdf",
-      "tags": [
-        "Konkurranse"
-      ]
+      "pdf": "Tu es Petrus (Petersson) - Note.pdf"
     },
     {
       "name": "Verbundenheit",
@@ -384,7 +400,7 @@
         "Verbundenheit T1.mp3",
         "Verbundenheit T2.mp3"
       ],
-      "pdf": "Verbundenheit (Schönberg) - Note.pdf",
+      "pdf": "Verbundenheit (Schönberg) - Note.pdf",
       "tags": [
         "Konkurranse"
       ]
@@ -399,6 +415,20 @@
         "Vi er slikt stoff som draum er laga av T2.mp3"
       ],
       "pdf": "Vi er slikt stoff som draum er laga av (Dyrud) - Note.pdf",
+      "tags": [
+        "Konkurranse"
+      ]
+    },
+    {
+      "name": "Vår i fjellgrenda",
+      "folder": "songs/Vår i fjellgrenda",
+      "files": [
+        "Vår i fjellgrenda B1.mp3",
+        "Vår i fjellgrenda B2.mp3",
+        "Vår i fjellgrenda T1.mp3",
+        "Vår i fjellgrenda T2.mp3"
+      ],
+      "pdf": "Vår i fjellgrenda (Sparre Olsen) - Note.pdf",
       "tags": [
         "Konkurranse"
       ]
